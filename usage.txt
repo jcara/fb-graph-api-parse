@@ -1,0 +1,14 @@
+
+FB Graph API Parser
+Copyright 2015 Juhani Karppinen
+
+Usage
+-----
+
+-a, --author=[AUTHOR]   Set page author name for statistics.
+-c, --comments          Include comments.
+-h, --help              Prints this help text.
+-p, --prefix=[PREFIX]   Sets prefix for file names.
+-o, --only-author       include posts only from author.
+
+
