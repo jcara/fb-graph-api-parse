@@ -1,6 +1,6 @@
 
 FB Graph API Parser
-Copyright 2015 Juhani Karppinen
+2015 Juhani Karppinen
 
 Usage
 -----
