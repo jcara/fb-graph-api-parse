@@ -6,7 +6,7 @@ This little Python-based script scrapes data from Facebook's Graph API and saves
 ## Usage
 
 #### General
-
+```
 -h, --help              Prints this help text.
 
 -c, --comments          Include comments.
@@ -14,10 +14,10 @@ This little Python-based script scrapes data from Facebook's Graph API and saves
 -o, --output            Set output file name
 -p, --page              Set page name (for example tol.oulu)         
 --page-only             Include posts from the page author only.
-
+```
 #### Date filtering 
 ###### (use yyyy-mm-dd format)
---
+```
 -s, --start-date Set start date
 -e, --end-date   Set end date
-
+```
