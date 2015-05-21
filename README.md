@@ -18,6 +18,6 @@ This little Python-based script scrapes data from Facebook's Graph API and saves
 #### Date filtering 
 ###### (use yyyy-mm-dd format)
 ```
--s, --start-date Set start date
--e, --end-date   Set end date
+-s, --start-date        Set start date
+-e, --end-date          Set end date
 ```

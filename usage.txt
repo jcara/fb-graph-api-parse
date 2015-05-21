@@ -15,7 +15,7 @@ Usage
 
 Date filtering (use yyyy-mm-dd format)
 --
--s, --start-date Set start date
--e, --end-date   Set end date
+-s, --start-date        Set start date
+-e, --end-date          Set end date
 
 
