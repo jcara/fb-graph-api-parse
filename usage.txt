@@ -5,10 +5,17 @@ FB Graph API Parser
 Usage
 -----
 
--a, --author=[AUTHOR]   Set page author name for statistics.
--c, --comments          Include comments.
 -h, --help              Prints this help text.
--p, --prefix=[PREFIX]   Sets prefix for file names.
--o, --only-author       include posts only from author.
+
+-c, --comments          Include comments.
+-d, --debug             Debug mode.
+-o, --output            Set output file name
+-p, --page              Set page name (for example tol.oulu)         
+--page-only             Include posts from the page author only.
+
+Date filtering (use yyyy-mm-dd format)
+--
+-s, --start-date Set start date
+-e, --end-date   Set end date
 
 
