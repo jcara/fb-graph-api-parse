@@ -1,4 +1,3 @@
-
-# Insert access token
+# Insert access token. Get it from developers.facebook.com
 access_token = ""
 
