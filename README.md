@@ -21,3 +21,7 @@ This little Python-based script scrapes data from Facebook's Graph API and saves
 -s, --start-date        Set start date
 -e, --end-date          Set end date
 ```
+
+## License
+
+This project is open source software licensed under the MIT license. For more information see [LICENSE][license]. 
