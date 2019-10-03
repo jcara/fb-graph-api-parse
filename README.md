@@ -24,4 +24,4 @@ This little Python-based script scrapes data from Facebook's Graph API and saves
 
 ## License
 
-This project is open source software licensed under the MIT license. For more information see [LICENSE][license]. 
+This project is open source software licensed under the MIT license. For more information see [LICENSE](LICENSE). 
